@@ -1,1 +1,5 @@
-hello and fuck you 
+    vscode 配置 集成GitHub  
+
+    首先，如何下载vscode以及git 不加以赘述 如可能将择日发布菜鸟详细教程
+
+    
